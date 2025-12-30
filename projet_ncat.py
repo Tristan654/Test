@@ -8,7 +8,7 @@ import subprocess
 
 Type_connexion = socket.SOCK_STREAM # TCP
 Type_adresse = socket.AF_INET # IPv4
-Adresse_cible = "192.168.0.32"
+Adresse_cible = "192.168.0.11"
 port_cible = 6100
 Taille_commande = 1024
 
